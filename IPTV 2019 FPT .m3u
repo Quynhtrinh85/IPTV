@@ -1,21 +1,5 @@
 ﻿#EXTM3U FPTtonghop
 
-#EXTINF:0 group-title="VTV",VTV1 HD (HD 4Mbps)
-udp://@225.1.2.248:30120
-#EXTINF:0 group-title="VTV",VTV2 HD (HD 4Mbps)
-udp://@225.1.2.14:30120
-#EXTINF:0 group-title="VTV",VTV3 HD (HD 4Mbps)
-udp://@225.1.2.246:30120
-#EXTINF:0 group-title="VTV",VTV5 HD (HD 4Mbps)
-udp://@225.1.1.129:30120
-#EXTINF:0 group-title="VTV",VTV6 HD (HD 4Mbps)
-udp://@225.1.2.244:30120
-#EXTINF:0 group-title="VTV",VTV7 HD (HD 4Mbps)
-udp://@225.1.2.97:30120
-#EXTINF:0 group-title="VTV",VTV8 HD (HD 4Mbps)
-udp://@225.1.2.142:30120
-#EXTINF:0 group-title="VTV",VTV9 HD (HD 4Mbps)
-udp://@225.1.1.126:30120
 #EXTINF:0 group-title="VTV",VTV1 HD (HD 8Mbps)
 udp://@225.1.2.249:30120
 #EXTINF:0 group-title="VTV",VTV2 HD (HD 8Mbps)
@@ -205,6 +189,8 @@ udp://@225.1.1.157:30120
 udp://@225.1.1.61:30120
 #EXTINF:0 group-title="Địa Phương (HD)",CTV _ TH Cà Mau (HD 4Mbps)
 udp://@225.1.1.104:30120
+#EXTINF:0 group-title="Địa Phương (HD)",Bắc Kạn HD (HD 4Mbps)
+udp://@225.1.1.126:30120
 
 #EXTINF:0 group-title="Địa Phương (SD)",THLC _ TH Lào Cai
 udp://@225.1.1.119:30120
