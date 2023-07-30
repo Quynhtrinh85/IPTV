@@ -6,8 +6,6 @@ udp://@225.1.2.248:30120
 udp://@225.1.2.14:30120
 #EXTINF:0 group-title="VTV",VTV3 HD (HD 4Mbps)
 udp://@225.1.2.246:30120
-#EXTINF:0 group-title="VTV",VTV4 HD (HD 4Mbps)
-udp://@225.1.1.211:30120
 #EXTINF:0 group-title="VTV",VTV5 HD (HD 4Mbps)
 udp://@225.1.1.129:30120
 #EXTINF:0 group-title="VTV",VTV6 HD (HD 4Mbps)
@@ -311,6 +309,8 @@ udp://@225.1.1.187:30120
 udp://@225.1.1.143:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
 udp://@225.1.2.253:30120
+#EXTINF:0 group-title="Quốc Tế (HD)",WILD HD (HD 4Mbps)
+udp://@225.1.1.211:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",DISCOVERY asia. (HD 4Mbps)
 udp://@225.1.2.222:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Discovery Channel (HD 4Mbps)
