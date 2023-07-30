@@ -55,14 +55,8 @@ udp://@225.1.2.171:30120
 
 #EXTINF:0 group-title="HTV/HTVC",Vie CHANNEL _ HTV2 (HD 4Mbps)
 udp://@225.1.1.193:30120
-#EXTINF:0 group-title="HTV/HTVC",HTV7 HD (HD 4Mbps)
-udp://@225.1.1.191:30120
-#EXTINF:0 group-title="HTV/HTVC",HTV9 HD (HD 4Mbps)
-udp://@225.1.1.189:30120
-#EXTINF:0 group-title="HTV/HTVC",FBNC (HD 4Mbps)
-udp://@225.1.1.181:30120
 #EXTINF:0 group-title="HTV/HTVC",HTVC PHIM (HD 4Mbps)
-udp://@225.1.1.183:30120
+udp://@225.1.1.181:30120
 #EXTINF:0 group-title="HTV/HTVC",Thuần Việt HD (HD 4Mbps)
 udp://@225.1.1.185:30120
 #EXTINF:0 group-title="HTV/HTVC",HTV7 HD (HD 6Mbps)
@@ -89,11 +83,6 @@ udp://@225.1.1.166:30120
 udp://@225.1.1.170:30120
 #EXTINF:0 group-title="HTV/HTVC",PHỤ NỮ
 udp://@225.1.1.171:30120
-#EXTINF:0 group-title="HTV/HTVC",Thuần Việt
-udp://@225.1.1.174:30120
-
-#EXTINF:0 group-title="SCTV",SCTV4 (HD 4Mbps)
-udp://@225.1.2.187:30120
 
 #EXTINF:0 group-title="Kênh TH Thiết yếu",ANTV HD (HD 4Mbps)
 udp://@225.1.2.169:30120
@@ -134,6 +123,8 @@ udp://@225.1.1.206:30120
 udp://@225.1.1.245:30120
 #EXTINF:0 group-title="Other Channel",Vietnamnet
 udp://@225.1.1.194:30120
+#EXTINF:0 group-title="Other Channel",SCTV6 (HD 6Mbps) 
+udp://@225.1.1.188:30120
 
 #EXTINF:0 group-title="Địa Phương (HD)",TN1 HD _ TH Thái Nguyên (HD 4Mbps)
 udp://@225.1.2.179:30120
@@ -183,6 +174,8 @@ udp://@225.1.2.170:30120
 udp://@225.1.1.155:30120
 #EXTINF:0 group-title="Địa Phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
 udp://@225.1.1.154:30120
+#EXTINF:0 group-title="Địa Phương (HD)",THVL4 HD _ TH Vĩnh Long (HD 4Mbps)
+udp://@225.1.2.25:30120
 #EXTINF:0 group-title="Địa Phương (HD)",HGTV _ TH Hậu Giang (HD 4Mbps)
 udp://@225.1.1.157:30120
 #EXTINF:0 group-title="Địa Phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
@@ -273,57 +266,7 @@ udp://@225.1.1.159:30120
 #EXTINF:0 group-title="Địa Phương (SD)",THTPCT _ TH Thành phố Cần Thơ
 udp://@225.1.1.132:30120
 
-#EXTINF:0 group-title="Quốc Tế (HD)",animal planet (HD 4Mbps)
-udp://@225.1.1.232:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",afc asian food channel (HD 4Mbps)
-udp://@225.1.2.98:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",AXN (HD 4Mbps)
-udp://@225.1.2.224:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Baby tv (HD 4Mbps)
-udp://@225.1.2.147:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",BBC Earth (HD 4Mbps)
-udp://@225.1.2.25:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 4Mbps)
-udp://@225.1.1.175:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 4Mbps)
-udp://@225.1.1.176:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Cartoon Network (HD 4Mbps)
-udp://@225.1.2.230:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps) 
-udp://@225.1.1.187:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Cinema World (HD 4Mbps)
-udp://@225.1.1.143:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
-udp://@225.1.2.253:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",WILD HD (HD 4Mbps)
-udp://@225.1.1.211:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",DISCOVERY asia. (HD 4Mbps)
-udp://@225.1.2.222:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Discovery Channel (HD 4Mbps)
-udp://@225.1.1.238:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Disney Channel (HD 4Mbps)
-udp://@225.1.2.160:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",DW (HD 4Mbps)
-udp://@225.1.1.46:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Fashion TV (HD 4Mbps)
-udp://@225.1.2.226:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX HD (HD 4Mbps)
-udp://@225.1.1.52:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX life (HD 4Mbps)
-udp://@225.1.2.236:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX MOVIES (HD 4Mbps)
-udp://@225.1.2.238:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX SPORTS (HD 4Mbps)
-udp://@225.1.2.228:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 4Mbps)
-udp://@225.1.1.108:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 4Mbps)
-udp://@225.1.2.243:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",HBO HD (HD 4Mbps)
-udp://@225.1.2.232:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",KIX (HD 4Mbps)
-udp://@225.1.2.145:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",MAX BY HBO (HD 4Mbps)
+#EXTINF:0 group-title="Quốc Tế (HD)",BLOOMBERG (HD 4Mbps)
 udp://@225.1.2.91:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 4Mbps)
 udp://@225.1.2.234:30120
@@ -353,32 +296,16 @@ udp://@225.1.1.203:30120
 udp://@225.1.1.204:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Cartoon Network (HD 6Mbps)
 udp://@225.1.2.231:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",[V] HD (HD 6Mbps) 
-udp://@225.1.1.188:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
 udp://@225.1.1.197:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",DISCOVERY asia. (HD 8Mbps)
 udp://@225.1.2.223:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps)
-udp://@225.1.2.158:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
 udp://@225.1.2.227:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",Fashion 4K
 rtp://@225.1.1.20:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps)
-udp://@225.1.1.51:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
-udp://@225.1.2.237:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
-udp://@225.1.2.239:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
-udp://@225.1.2.229:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 6Mbps)
-udp://@225.1.1.141:30120
-#EXTINF:0 group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
-udp://@225.1.2.242:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",HBO HD (HD 8Mbps)
 udp://@225.1.2.233:30120
 #EXTINF:0 group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
@@ -410,8 +337,6 @@ udp://@225.1.1.202:30120
 udp://@225.1.1.227:30120
 #EXTINF:0 group-title="Quốc Tế (SD)",CNN
 udp://@225.1.1.242:30120
-#EXTINF:0 group-title="Quốc Tế (SD)",Disney Junior
-udp://@225.1.1.233:30120
 #EXTINF:0 group-title="Quốc Tế (SD)",DIVA
 udp://@225.1.1.199:30120
 #EXTINF:0 group-title="Quốc Tế (SD)",FRANCE 24
@@ -483,14 +408,8 @@ udp://@225.1.4.64:30120
 udp://@225.1.4.63:30120
 #EXTINF:0 group-title="FPT Play",PHỤ NỮ (FPT Play)
 udp://@225.1.4.66:30120
-#EXTINF:0 group-title="FPT Play",Thuần Việt (FPT Play)
-udp://@225.1.4.61:30120
 #EXTINF:0 group-title="FPT Play",Thuần Việt HD (FPT Play)
 udp://@225.1.4.62:30120
-#EXTINF:0 group-title="FPT Play",PHIM HAY (50i) (FPT Play)
-udp://@225.1.4.77:30120
-#EXTINF:0 group-title="FPT Play",NCM _ BTV10 (50i) (FPT Play)
-udp://@225.1.4.83:30120
 #EXTINF:0 group-title="FPT Play",SAM _ BTV11 (50i) (FPT Play)
 udp://@225.1.4.84:30120
 #EXTINF:0 group-title="FPT Play",BTV6 2!IDOL _ Vietteen (50i) (FPT Play)
@@ -543,12 +462,16 @@ udp://@225.1.4.17:30120
 udp://@225.1.4.30:30120
 #EXTINF:0 group-title="FPT Play",Da Vinci/DIVA??? (FPT Play)
 udp://@225.1.4.38:30120
+#EXTINF:0 group-title="FPT Play",WILD (FPT Play)
+udp://@225.1.4.83:30120
 #EXTINF:0 group-title="FPT Play",DISCOVERY asia. (HD) (FPT Play)
 udp://@225.1.4.25:30120
 #EXTINF:0 group-title="FPT Play",DISCOVERY CHANNEL (FPT Play)
 udp://@225.1.4.24:30120
 #EXTINF:0 group-title="FPT Play",DW (FPT Play)
 udp://@225.1.4.75:30120
+#EXTINF:0 group-title="FPT Play",CNBC (FPT Play)
+udp://@225.1.4.77:30120
 #EXTINF:0 group-title="FPT Play",FASHION TV (FPT Play)
 udp://@225.1.4.20:30120
 #EXTINF:0 group-title="FPT Play",FOX HD (FPT Play)
