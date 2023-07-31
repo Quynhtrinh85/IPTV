@@ -88,12 +88,6 @@ udp://@225.1.1.171:30120
 udp://@225.1.2.169:30120
 #EXTINF:0 group-title="Kênh TH Thiết yếu",Nhân Dân (HD 4Mbps)
 udp://@225.1.1.91:30120
-#EXTINF:0 group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 4Mbps)
-udp://@225.1.2.149:30120
-#EXTINF:0 group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps)
-udp://@225.1.2.216:30120
-#EXTINF:0 group-title="Kênh TH Thiết yếu",TTXVN (HD 4Mbps)
-udp://@225.1.1.43:30120
 #EXTINF:0 group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 6Mbps)
 udp://@225.1.2.148:30120
 #EXTINF:0 group-title="Kênh TH Thiết yếu",QPVN (HD 6Mbps)
@@ -113,11 +107,6 @@ udp://@225.1.1.222:30120
 udp://@225.1.1.224:30120
 #EXTINF:0 group-title="mobiTV/AVG",BTV6 2!IDOL _ Vietteen (50i)
 udp://@225.1.1.223:30120
-
-#EXTINF:0 group-title="HanoiCab",youTV _ Hanoicab2
-udp://@225.1.1.207:30120
-#EXTINF:0 group-title="HanoiCab",MOV _ Hanoicab4
-udp://@225.1.1.206:30120
 
 #EXTINF:0 group-title="Other Channel",MTV
 udp://@225.1.1.245:30120
@@ -507,17 +496,6 @@ udp://@225.1.1.127:30120
 udp://@225.1.1.123:30120
 #EXTINF:0 group-title="Introduction",The Ocean Resort
 udp://@225.1.1.121:30120
-
-#EXTINF:0 group-title="FPT Service",FPT Giới Thiệu Chương Trình
-udp://@225.1.1.2:30120
-#EXTINF:0 group-title="FPT Service",FPT Giới Thiệu Dịch Vụ
-udp://@225.1.1.137:30120
-#EXTINF:0 group-title="FPT Service",FPT Mở két
-udp://@225.1.1.26:30120
-#EXTINF:0 group-title="FPT Service",FPT Mở két
-udp://@225.1.1.97:30120
-#EXTINF:0 group-title="FPT Service",FPT Thể Thao
-udp://@225.1.2.252:30120
 
 #EXTINF:0 group-title="Kênh Bán hàng",VTVCab11 _ VGS SHOP
 udp://@225.1.2.167:30120
